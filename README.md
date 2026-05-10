@@ -13,6 +13,11 @@ Software engineer with solid experience in **.NET** development, financial syste
 I enjoy solving complex problems, writing maintainable code and building systems that are reliable in the long run.
 
 ---
+🇧🇷 *Engenheiro de software com sólida experiência em desenvolvimento **.NET**, integrações com sistemas financeiros e arquitetura limpa. Trabalhei com gateways bancários (Pix, boletos, certificados digitais), construí aplicações do zero aplicando princípios SOLID e atuei como referência técnica do time de desenvolvimento por mais de 2 anos.*
+
+*Gosto de resolver problemas complexos, escrever código de fácil manutenção e construir sistemas confiáveis a longo prazo.*
+
+---
 
 ## 🛠 Tech Stack
 
